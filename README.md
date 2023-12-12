@@ -1,5 +1,4 @@
-# Library_System_Source_code_MERN_Stack_Project
-
+# Library System Mern Stack Project
 
 It is a web application for Library System .
 
@@ -17,6 +16,32 @@ install nodeJs and MongoDB in your Desktop .
 clone this repository in your Desktop .
 
 run the following commands :
+
+
+
+
+
+
+
+
+## Installation
+
+Install my-project with npm
+
+goto client folder and run the command :
+```bash
+  npm install 
+```
+
+now on root folder run the  command :
+
+```bash
+  npm run dev 
+```
+    
+After Running you can use this web application .
+
+
 ## Documentation
 
 ## API requests 
@@ -123,4 +148,3 @@ Deleting a book
       error,
       message : "Error in Deletion of book "
 }
-
