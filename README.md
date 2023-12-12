@@ -1,5 +1,22 @@
 # Library_System_Source_code_MERN_Stack_Project
 
+
+It is a web application for Library System .
+
+For Now ,it has only CRUD Operation on Books . In future It will be Updated .
+
+Website Link (Hosted):
+
+https://lms-s12i.onrender.com/
+
+
+#To run the application :
+
+install nodeJs and MongoDB in your Desktop .
+
+clone this repository in your Desktop .
+
+run the following commands :
 ## Documentation
 
 ## API requests 
